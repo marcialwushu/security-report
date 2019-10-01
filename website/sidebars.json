@@ -3,7 +3,8 @@
     "Docusaurus": ["doc1"],
     "First Category": ["doc2"],
     "Second Category": ["doc3"],
-    "Malicios File": ["doc6"]
+    "Malicios File": ["doc6"],
+    "Malicios Files": ["doc7"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
