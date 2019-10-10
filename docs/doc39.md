@@ -8,7 +8,7 @@ sidebar_label: COD 2019-10-10:06
 
 ### Fixed
 
-- Removido arquivo lao.php com código malicioso
+- Removido código malicioso no arquivo index.php 
 
 ## Código
 
