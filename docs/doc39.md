@@ -1,3 +1,16 @@
+---
+id: doc39
+title: Arquivos Maliciosos
+sidebar_label: COD 2019-10-10:06
+---
+
+## 39.0.0 - 2019-10-10
+
+### Fixed
+
+- Removido arquivo lao.php com código malicioso
+
+## Código
 
 
 ```php
